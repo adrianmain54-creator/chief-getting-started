@@ -1,2 +1,1 @@
-# chief-getting-started
-Repository for getting started with Chief
+# Getting Started with Chief
